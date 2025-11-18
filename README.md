@@ -1,11 +1,4 @@
 # 📄 Currículum – Santiago Reyes Torres
-
-## 📬 Contacto
-📞+57 315 0589185 
-📧 **reyestorressanti@gmail.com**  
-📍 Medellín, Colombia  
----
-
 Bienvenido a mi repositorio de CV. Aquí encontrarás mi hoja de vida en formato PDF y una versión en Markdown. Busco mi primera oportunidad profesional en el área de desarrollo de software, con enfoque en backend y tecnologías web modernas.
 
 ## 📥 Descargar CV
@@ -64,3 +57,11 @@ Plataforma completa desarrollada con PHP y MySQL.
 
 ## 🎯 Objetivo Profesional  
 Integrarme a un equipo de desarrollo donde pueda aplicar mis conocimientos, contribuir a proyectos reales, aprender nuevas tecnologías y crecer como desarrollador fullstack.
+
+---
+
+## 📬 Contacto
+📞+57 315 0589185 
+📧 **reyestorressanti@gmail.com**  
+📍 Medellín, Colombia  
+
